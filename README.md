@@ -44,8 +44,10 @@
 </p>
   <br>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-dark-mode-only" alt="nirblo50" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-light-mode-only" alt="nirblo50" style="margin-left: 10px;">
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/jstrieb/github-stats">
+    <img src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-dark-mode-only">
+  </a>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=nirblo50&theme=dark&show_icons=true&locale=en" alt="nirblo50" />
 </div>
-
