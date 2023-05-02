@@ -45,9 +45,9 @@
   <br>
 
 <div style="display:flex;justify-content:center;align-items:center;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirblo50&theme=dark&show_icons=true&locale=en&layout=compact" alt="nirblo50" /></p>
+  <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nirblo50&theme=dark&show_icons=true&locale=en&layout=compact" alt="nirblo50" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirblo50&theme=dark&show_icons=true&locale=en" alt="nirblo50" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirblo50&theme=dark&show_icons=true&locale=en" alt="nirblo50" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirblo50&theme=dark" alt="nirblo50" /></p>
 </div>
