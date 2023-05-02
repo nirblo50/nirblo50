@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nir Balouka</h1>
+<h1 align="center">Nir Balouka</h1>
 <h3 align="center">Computer Science Student at The Hebrew University of Jerusalem</h3>
 <br>
 <h4 align="center"> 👨‍💻 All of my projects are available at https://nirblo50.github.io/Portfolio/ </h4>
