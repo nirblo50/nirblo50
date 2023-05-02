@@ -44,11 +44,8 @@
 </p>
   <br>
 
-<div style="display:flex; justify-content:center; align-items:center;">
- 
-  <div>
-    <img align="center" src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-dark-mode-only" alt="nirblo50" />
-    <img align="center" src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-light-mode-only" alt="nirblo50" />
-  </div>
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-dark-mode-only" alt="nirblo50" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-light-mode-only" alt="nirblo50" style="margin-left: 10px;">
 </div>
+
