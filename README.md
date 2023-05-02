@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nir Balouka</h1>
 <h3 align="center">Computer Science Student at The Hebrew University of Jerusalem</h3>
 <br>
+<h5 align="center"> 👨‍💻 All of my projects are available at https://nirblo50.github.io/Portfolio/ </h3>
 
- 👨‍💻 All of my projects are available at [https://nirblo50.github.io/Portfolio/](https://nirblo50.github.io/Portfolio/)
+ 
 
 <!-- <img align="center" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*w1BTUZctqyEYJrldIqJXqg.gif"> -->
 
@@ -43,10 +44,11 @@
 </p>
   <br>
 
-<div style="display:flex;">
+<div style="display:flex;justify-content:center;align-items:center;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirblo50&theme=dark&show_icons=true&locale=en&layout=compact" alt="nirblo50" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirblo50&theme=dark&show_icons=true&locale=en" alt="nirblo50" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirblo50&theme=dark" alt="nirblo50" /></p>
 </div>
+
