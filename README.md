@@ -44,11 +44,19 @@
 </p>
   <br>
 
-<div style="display:flex;justify-content:center;align-items:center;">
-  <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nirblo50&theme=dark&show_icons=true&locale=en&layout=compact" alt="nirblo50" /></p>
+<div style="display:flex; justify-content:center; align-items:center;">
+ 
+  <div>
+    <img align="left" src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-dark-mode-only" alt="nirblo50" />
+    <img align="left" src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-light-mode-only" alt="nirblo50" />
+  </div>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirblo50&theme=dark&show_icons=true&locale=en" alt="nirblo50" /></p>
+  <div>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirblo50&theme=light&show_icons=true&locale=en" alt="nirblo50" />
+  </div>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirblo50&theme=dark" alt="nirblo50" /></p>
+  <div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirblo50&theme=light" alt="nirblo50" />
+  </div>
+
 </div>
-
