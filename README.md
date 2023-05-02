@@ -1,8 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Nir Balouka</h1>
-<h3 align="center">Computer science student at The Hebrew University of Jerusalem</h3>
+<h3 align="center">Computer Science Student at The Hebrew University of Jerusalem</h3>
+<br><br>
 
 - 👨‍💻 All of my projects are available at [https://nirblo50.github.io/Portfolio/](https://nirblo50.github.io/Portfolio/)
-
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*w1BTUZctqyEYJrldIqJXqg.gif">
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nir-balouka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nir-balouka" height="30" width="40" /></a>
@@ -15,3 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirblo50&show_icons=true&locale=en" alt="nirblo50" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirblo50&" alt="nirblo50" /></p>
