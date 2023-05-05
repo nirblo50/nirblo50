@@ -15,6 +15,7 @@
 </p>
 <br>
 
+<h2> </h2>
 
 <h3 align="center">Skills:</h3>
 <p align='center'>
@@ -28,16 +29,23 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>
 </p>
 
+<h2> </h2>
 
 </p>
   <br>
 
-<p align='center'>
-  <a href="https://github.com/jstrieb/github-stats">
-    <img src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/languages.svg#gh-dark-mode-only">
-  </a>
-  <a href="https://github.com/jstrieb/github-stats">
-    <img src="https://raw.githubusercontent.com/nirblo50/github_stats/master/generated/overview.svg#gh-dark-mode-only">
-  </a>
+
+
+<h2 align="center"> Some of my projects: </h2>
+ <p align='center'>
+   <img src="assets/card_game.gif" height="170">&nbsp&nbsp&nbsp&nbsp
+   <img src="assets/maple_story.gif" height="170">&nbsp&nbsp&nbsp&nbsp
+   <img src="assets/dodge_the_alien.gif" height="170">&nbsp&nbsp&nbsp&nbsp
+   <img src="assets/feed_hadar.gif" height="170">&nbsp&nbsp&nbsp&nbsp
+   <img src="assets/web.gif" height="170">
 </p>
+
+  <br>
+  
+
 
