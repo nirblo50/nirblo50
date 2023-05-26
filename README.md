@@ -17,7 +17,7 @@
 
 <h2> </h2>
 
-<h3 align="center">Skills:</h3>
+<h3 align="center">Stack:</h3>
 <p align='center'>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
